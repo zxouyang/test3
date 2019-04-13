@@ -5,4 +5,4 @@
 ## branch test 2 dev and bbq no bbq
 ## brach management
 ### multi people corporate
-## from mac update
+## from windows and mac
